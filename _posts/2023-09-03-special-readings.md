@@ -7,6 +7,13 @@ tags: [Numbers]
 ---
 # Special Readings of Numbers
 
+## Numbers
+* 300 - さん`びゃ`く
+* 600 - ろっ`ぴゃ`く
+* 800 - はっ`ぴゃ`く
+* 3000 - さん`ぜん`
+* 8000 - `はっ`せん
+
 ## Ages
 ```
 (Number)さい
@@ -16,7 +23,26 @@ tags: [Numbers]
 * 10 - `じゅっ`さい
 * 20 - `はたち`
 
-20 is the only special special case. 11, 18, 21, 30, etc. will be read following the special readings.
+20 is the only special special case.
+11, 18, 21, 30, etc. will be read following the special readings.
+
+## Time
+
+### Hours
+* 4 - `よ`じ
+* 7 - `しち`じ
+* 9 - `く`じ
+
+### Minutes
+* 1 - `いっぷん`
+* 3 - さん`ぷん`
+* 6 - `ろっぷん`
+* 8 - `はっぷん`
+* 10 - `じゅっぷん`
+* ? - なん`ぷん`
+
+All of these are read as　ぷん.
+The rest are just (Number)分.
 
 ## Months
 * April (4) - `し`がつ
@@ -38,3 +64,14 @@ tags: [Numbers]
 * 20 - `はつか`
 * 24 - にじゅう`とっか`
 　
+The rest are just (Number)日
+
+## Numbers with Counters
+
+### Floors
+* 1 - `いっかい`
+* 3 - さん`がい`
+* 6 - `ろっ`かい
+* 8 - `はっ`かい
+* 10 - `じゅっ`かい、`じっ`かい
+* ? - なん`がい`

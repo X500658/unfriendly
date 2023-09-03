@@ -18,8 +18,8 @@ tags: [Politeness]
 | あそこ | あちら |
 | どこ | どちら |
 | `どの*` | どちら |
-|  |  |
-|  |  |
+<!-- |  |  | -->
+<!-- |  |  | -->
 
 ## Notes
- どの is not in the vocabs list
+ どの is in Lesson 16

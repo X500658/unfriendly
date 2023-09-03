@@ -13,3 +13,5 @@ Yeah, I just copied this from the [Welcome post]({% post_url 2023-09-03-welcome 
 
 ## Thanks
 Special thanks to [Techno Tim](https://www.youtube.com/@TechnoTim) and [Jadehawk's Tech Notes](https://www.youtube.com/@jadehawk) for the Jekyll tutorials
+
+The avatar image is taken from [いらすとや](https://www.irasutoya.com/)
