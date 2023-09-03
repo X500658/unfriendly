@@ -20,9 +20,9 @@ timezone:
 
 title: The Unfriendly Guide to Japanese # the main title
 
-tagline: You wont learn Japanese here # it will display as the sub-title
+tagline: You won't learn Japanese here # it will display as the sub-title
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Japanese "guide" with no clutter, no help and maybe even no learning
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://x500658.github.io"
@@ -37,7 +37,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: X500658
-  email: example@domain.com # change to your email address
+  email: admin@x500658.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
