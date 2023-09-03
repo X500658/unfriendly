@@ -29,6 +29,9 @@ tags: [Numbers]
 ## Time
 
 ### Hours
+```
+(Number)じ
+```
 * 4 - `よ`じ
 * 7 - `しち`じ
 * 9 - `く`じ
@@ -45,6 +48,9 @@ All of these are read as　ぷん.
 The rest are just (Number)分.
 
 ## Months
+```
+(Number)がつ
+```
 * April (4) - `し`がつ
 * July (7) - `しち`がつ
 * September (9) - `く`がつ
