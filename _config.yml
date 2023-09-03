@@ -1,6 +1,3 @@
-# plugins:
-#   - jekyll-ruby-annotation
-
 # The Site Configuration
 
 # Import the theme
@@ -78,7 +75,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/lib/writing_businessman2_angry.png
+avatar: /assets/writing_businessman2_angry.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
