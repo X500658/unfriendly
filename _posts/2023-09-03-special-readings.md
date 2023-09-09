@@ -37,6 +37,9 @@ tags: [Numbers]
 * 9 - `く`じ
 
 ### Minutes
+```
+(Number)分
+```
 * 1 - `いっぷん`
 * 3 - さん`ぷん`
 * 6 - `ろっぷん`
@@ -45,7 +48,6 @@ tags: [Numbers]
 * ? - なん`ぷん`
 
 All of these are read as　ぷん.
-The rest are just (Number)分.
 
 ## Months
 ```
@@ -56,6 +58,9 @@ The rest are just (Number)分.
 * September (9) - `く`がつ
 
 ## Dates
+```
+(Number)日
+```
 * 1 - `ついたち`
 * 2 - `ふつか`
 * 3 - `みっか`
@@ -69,12 +74,13 @@ The rest are just (Number)分.
 * 14 - じゅう`よっか`
 * 20 - `はつか`
 * 24 - にじゅう`とっか`
-　
-The rest are just (Number)日
 
 ## Numbers with Counters
 
 ### Floors
+```
+(Number)階
+```
 * 1 - `いっかい`
 * 3 - さん`がい`
 * 6 - `ろっ`かい
