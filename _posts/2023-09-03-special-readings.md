@@ -49,7 +49,9 @@ tags: [Numbers]
 
 All of these are read as　ぷん.
 
-## Months
+## Dates
+
+### Months
 ```
 (Number)がつ
 ```
@@ -57,7 +59,7 @@ All of these are read as　ぷん.
 * July (7) - `しち`がつ
 * September (9) - `く`がつ
 
-## Dates
+### Days
 ```
 (Number)日
 ```
@@ -76,6 +78,33 @@ All of these are read as　ぷん.
 * 24 - にじゅう`とっか`
 
 ## Numbers with Counters
+
+### Things
+```
+(Number)つ
+```
+* 1 - `ひとつ`
+* 2 - `ふつつ`
+* 3 - `みっつ`
+* 4 - `よっつ`
+* 5 - `いつつ`
+* 6 - `むいつ`
+* 7 - `なのつ`
+* 8 - `ようつ`
+* 9 - `ここのつ`
+* 10 - `とお`
+* ? - `いくつ`
+
+Note how the readings of the numbers from 2-10 are similar to those of the dates
+
+### People
+```
+(Number)人
+```
+* 1 - `ひとり`
+* 2 - `ふたり`
+
+Similar to the dates and つ counter
 
 ### Floors
 ```
