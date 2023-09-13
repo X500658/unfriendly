@@ -1,7 +1,7 @@
 --- 
 layout: post 
 Title: Particles
-date: 2023-09-13 14:12 +0800 
+date: 2023-09-13 16:20 +0800 
 --- 
  
 # Particles and Stuff
@@ -9,6 +9,8 @@ date: 2023-09-13 14:12 +0800
 ## Particles
 
 | Particle | Lesson | Use/Purpose |
+| -- | -- | -- |
+| は | - | topic marker |
 | の | L2 | provide more info, modify, show ownership
 | に | L3 | pointer to a point in time (requires number)
 | | L7 | indirect object |
@@ -22,7 +24,7 @@ date: 2023-09-13 14:12 +0800
 | を | L6 | direct object of verbs |
 | | L16 | starting point |
 | が | L14 | When something can be felt through the 5 senses (adj.) |
-| | | For natural phenomenon (verbs) |
+| | | For natural phenomenon (verbs) | 
 
 ## Other Parts of Speech
 IRDK if these are particles or not
