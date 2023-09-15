@@ -25,6 +25,7 @@ tags: [Grammar]
 | | L12 | indicates group/category/range |
 | を | L6 | direct object of verbs |
 | | L16 | starting point |
+| と |　L10 | "and" |
 | が | L14 | When something can be felt through the 5 senses (adj.) |
 | | | For natural phenomenon (verbs) | 
 
@@ -39,3 +40,4 @@ IRDK if these are particles or not
 | (です)が | L7 | Used when using 2 or more Adj’s for a noun of the opposite nature/polarity | 
 | や・・・など | L10 | “etc” |
 | より | L12 | indicates the lesser one of 2 nouns being compared |
+| までに| L17 | "by", "before", indicates limit/deadline |
