@@ -14,7 +14,7 @@ tags: [Grammar]
 | -- | -- | -- |
 | は | - | topic marker |
 | の | L2 | provide more info, modify, show ownership
-| に | L3 | pointer to a point in time (requires number)
+| に | L3 | reference to a point in time (requires number)
 | | L7 | indirect object |
 | | L10 | place of existence |
 | | L16 | reaching point |
