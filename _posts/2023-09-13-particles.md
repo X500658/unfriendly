@@ -34,10 +34,10 @@ IRDK if these are particles or not
 
 | から | L4 | “from” |
 | | L9 | “because” |
-| | L13 | indicates the verb preceding it is done before the verb that succeeds it |
+| | L16 | indicates the verb preceding it is done before the verb that succeeds it |
 | まで | L4 | “up to”, “until” |
 | そして  | L7 | Used when using 2 or more Adj’s for a noun of the same nature/polarity | 
 | (です)が | L7 | Used when using 2 or more Adj’s for a noun of the opposite nature/polarity | 
 | や・・・など | L10 | “etc” |
 | より | L12 | indicates the lesser one of 2 nouns being compared |
-| までに| L17 | "by", "before", indicates limit/deadline |
+| までに | L17 | "by", "before", indicates limit/deadline |
