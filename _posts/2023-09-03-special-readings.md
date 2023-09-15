@@ -97,14 +97,17 @@ All of these are read as　ぷん.
 
 Note how the readings of the numbers from 2-10 are similar to those of the dates
 
+For 11 and up, 個 is used instead, unless there is a more appropriate counter
+
 ### People
 ```
 (Number)人
 ```
 * 1 - `ひとり`
 * 2 - `ふたり`
+* 4 - `よにん`
 
-Similar to the dates and つ counter
+1 and 2 are similar to the dates and つ counter
 
 ### Floors
 ```
@@ -116,3 +119,5 @@ Similar to the dates and つ counter
 * 8 - `はっ`かい
 * 10 - `じゅっ`かい、`じっ`かい
 * ? - なん`がい`
+
+Just prepend `地下` when referring to basement/underground floors
