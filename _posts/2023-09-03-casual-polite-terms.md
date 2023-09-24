@@ -7,6 +7,7 @@ tags: [Politeness]
 ---
 
 ## Casual-Polite Terms Table
+Note that I use casual and plain forms here interchangibly.　Use at your own risk
 
 | Casual | Polite |
 |:--|--:|
@@ -18,5 +19,11 @@ tags: [Politeness]
 | あそこ | あちら |
 | どこ | どちら |
 | どの | どちら |
-| すみませんが | じゃ、ちょっと |
-| <ruby>残<rt>ざん</rt>念<rt>ねん</rt></ruby> | ごめん |
+| じゃ、ちょっと | すみませんが |
+| ごめん | <ruby>残<rt>ざん</rt>念<rt>ねん</rt></ruby> |
+| けど | ですが |
+| 何 | 何ですか |
+|　どっち  | どちら |
+|　こっち  | こちら |
+|　そっち  | そちら |
+|　あっち  | あちら |
