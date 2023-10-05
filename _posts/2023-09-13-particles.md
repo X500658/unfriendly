@@ -25,6 +25,7 @@ tags: [Grammar]
 | | L12 | indicates group/category/range |
 | を | L6 | direct object of verbs |
 | | L16 | starting point |
+| | L23 | passing through |
 | と | L10 | "and" |
 | が | L14 | When something can be felt through the 5 senses (adj.) |
 | | | For natural phenomenon (verbs) | 
