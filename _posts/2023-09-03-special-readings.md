@@ -74,8 +74,13 @@ All of these are read as　ぷん.
 * 9 - `ここのか`
 * 10 - `とおか`
 * 14 - じゅう`よっか`
+* 19 - じゅう`く`にち
 * 20 - `はつか`
 * 24 - にじゅう`とっか`
+* 29 - にじゅう`く`にち
+
+Take note of 14, 24 and 19, 29
+
 
 ## Numbers with Counters
 
@@ -121,3 +126,38 @@ For 11 and up, 個 is used instead, unless there is a more appropriate counter
 * ? - なん`がい`
 
 Just prepend `地下` when referring to basement/underground floors
+
+###　Very similar readings
+* 1 - `いっ`(counter)
+* 10 - `じゅっ`(counter)、`じっ`(counter)
+
+| Counter | Object |
+| -- | -- |
+| 歳 | Age |
+| <ruby>冊<rt>さつ</rt><ruby> | Books & notebooks |
+| 回 | Frequency |
+| 個 | Small things |
+| <ruby>足<rt>そく</rt><ruby> | Shoes and socks |
+| <ruby>軒<rt>げん</rt><ruby> | Houses |
+
+####The H row
+* 1 - `いっ(p, counter)`
+* 3 - さん`(b, counter)`
+* 6 - `ろっ(p, counter)`
+* 8 - `はっ(p,counter)`
+* 10 - `じゅっ(p,counter)`、`じっ(p,counter)`
+* ? - なん`(b, counter)`
+
+| 本 | Thin and long things |
+| 杯 | Drinks in cups/glasses |
+| 匹 | Small animals, fish, insects |
+
+### No special readings
+> Might as well list the counters somehwere
+{: .prompt-info}
+
+| Counter | Object |
+| -- | -- |
+| 番 | Order |
+| 枚 | Thin & long things |
+| 台 | Machines, vehicles |
