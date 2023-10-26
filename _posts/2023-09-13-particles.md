@@ -14,6 +14,7 @@ tags: [Grammar]
 | -- | -- | -- |
 | は | - | topic marker |
 | の | L2 | provide more info, modify, show ownership
+| | L38 | verb normalizer
 | に | L3 | reference to a point in time (requires number)
 | | L7 | indirect object |
 | | L10 | place of existence |
@@ -30,7 +31,8 @@ tags: [Grammar]
 | | L16 | starting point |
 | | L23 | passing through |
 | と | L10 | "and" |
-| が | L14 | When something can be felt through the 5 senses (adj.) |
+| が | L7 | "but" | 
+| | L14 | When something can be felt through the 5 senses (adj.) |
 | | | For natural phenomenon (verbs) | 
 | | L29 | pair of intransitive verbs |
 
@@ -40,9 +42,9 @@ IRDK if these are particles or not
 | から | L4 | “from” |
 | | L9 | “because” |
 | | L16 | indicates the verb preceding it is done before the verb that succeeds it |
+| | L37 | "made from"; raw materials can no longer be seen |
 | まで | L4 | “up to”, “until” |
 | そして  | L7 | Used when using 2 or more Adj’s for a noun of the same nature/polarity | 
-| (です)が | L7 | "but", used when using 2 or more Adj’s for a noun of the opposite nature/polarity | 
 | や・・・など | L10 | “etc” |
 | より | L12 | indicates the lesser one of 2 nouns being compared |
 | までに | L17 | "by", "before", indicates limit/deadline |
