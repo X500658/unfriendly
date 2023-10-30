@@ -13,22 +13,23 @@ tags: [Grammar]
 | Particle | Lesson | Use/Purpose |
 | -- | -- | -- |
 | は | - | topic marker |
-| の | L2 | provide more info, modify, show ownership
-| | L38 | nominalizer
-| | L38 | verb normalizer
-| に | L3 | reference to a point in time (requires number)
-|  | L5 |  destination
+| | L27 | contrast (2 clauses joined with が |
+| の | L2 | provide more info, modify, show ownership |
+| | L38 | nominalizer |
+| に | L3 | reference to a point in time (requires number) |
+|  | L5 | destination/goal |
 | | L7 | indirect object |
 | | L10 | place of existence |
 | | L16 | reaching point |
-| へ | L5 |  indicates the direction you are going to;
+| へ | L5 |  indicates the direction you are going to |
 | で | L5 | transportation |
 | | L6 | place of action |
 | | L7 | tool, means, language |
 | | L12 | indicates group/category/range |
 | | L21 | occasion/occurence |
 | | L32 | limit |
-| | L39 | reason (でresult) |
+| | L37 | "made with"; raw materials can be seen |
+| | L39 | cause (でresult) |
 | を | L6 | direct object of verbs |
 | | L16 | starting point |
 | | L23 | passing through |
