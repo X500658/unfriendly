@@ -14,12 +14,14 @@ tags: [Grammar]
 | -- | -- | -- |
 | は | - | topic marker |
 | の | L2 | provide more info, modify, show ownership
+| | L38 | nominalizer
 | | L38 | verb normalizer
 | に | L3 | reference to a point in time (requires number)
+|  | L5 |  destination
 | | L7 | indirect object |
 | | L10 | place of existence |
 | | L16 | reaching point |
-| へ | L5 |  indicates the direction you are going to
+| へ | L5 |  indicates the direction you are going to;
 | で | L5 | transportation |
 | | L6 | place of action |
 | | L7 | tool, means, language |
