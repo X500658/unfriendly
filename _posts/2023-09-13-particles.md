@@ -5,15 +5,13 @@ date: 2023-09-13 16:20 +0800
 categories: [Special]
 tags: [Grammar]
 ---
- 
-# Particles and Stuff
 
 ## Particles
 
 | Particle | Lesson | Use/Purpose |
 | -- | -- | -- |
 | は | - | topic marker |
-| | L27 | contrast (2 clauses joined with が |
+| | L27 | contrast (2 clauses joined with が) |
 | の | L2 | provide more info, modify, show ownership |
 | | L38 | nominalizer |
 | に | L3 | reference to a point in time (requires number) |
@@ -21,6 +19,7 @@ tags: [Grammar]
 | | L7 | indirect object |
 | | L10 | place of existence |
 | | L16 | reaching point |
+| | L13 | purpose |
 | へ | L5 |  indicates the direction you are going to |
 | で | L5 | transportation |
 | | L6 | place of action |
