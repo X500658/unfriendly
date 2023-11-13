@@ -12,12 +12,14 @@ tags: [Grammar]
 | -- | -- | -- |
 | は | - | topic marker |
 | | L27 | contrast (2 clauses joined with が) |
+| | L42 | minimum, "at least" |
 | が | | subject marker |
 | | L7 | "but" | 
 | | L14 | When something can be felt through the 5 senses (adj.) |
 | | | For natural phenomenon (verbs) | 
 | | L29 | pair of intransitive verbs |
 | も | L1 | "too", "as well" |
+| | L42 | "as much as", "too much" |
 | の | L2 | provide more info, modify, show ownership |
 | | L38 | nominalizer |
 | に | L3 | reference to a point in time (requires number) |
