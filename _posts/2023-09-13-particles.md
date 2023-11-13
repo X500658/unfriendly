@@ -27,7 +27,9 @@ tags: [Grammar]
 | | L5 | indicates the direction/destination/goal you are going to |
 | | L7 | indirect object |
 | | L10 | place of existence |
+| | L13 | purpose (Verb いstem)
 | | L16 | reaching point |
+| | L42 | purpose (noun, nominalized verb)
 | から | L4 | “from” |
 | | L9 | “because” |
 | | L16 | indicates the verb preceding it is done before the verb that succeeds it |
