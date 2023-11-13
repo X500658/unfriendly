@@ -19,6 +19,7 @@ tags: [Grammar]
 | | | For natural phenomenon (verbs) | 
 | | L29 | pair of intransitive verbs |
 | も | L1 | "too", "as well" |
+| | L5 | deny everything |
 | | L42 | "as much as", "too much" |
 | の | L2 | provide more info, modify, show ownership |
 | | L38 | nominalizer |
