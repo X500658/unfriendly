@@ -127,7 +127,7 @@ For 11 and up, 個 is used instead, unless there is a more appropriate counter
 
 Just prepend `地下` when referring to basement/underground floors
 
-###　Very similar readings
+### Very similar readings
 * 1 - `いっ`(counter)
 * 10 - `じゅっ`(counter)、`じっ`(counter)
 
@@ -140,7 +140,7 @@ Just prepend `地下` when referring to basement/underground floors
 | <ruby>足<rt>そく</rt><ruby> | Shoes and socks |
 | <ruby>軒<rt>げん</rt><ruby> | Houses |
 
-####The H row
+#### The H row
 * 1 - `いっ(p, counter)`
 * 3 - さん`(b, counter)`
 * 6 - `ろっ(p, counter)`
@@ -159,5 +159,5 @@ Just prepend `地下` when referring to basement/underground floors
 | Counter | Object |
 | -- | -- |
 | 番 | Order |
-| 枚 | Thin & long things |
+| 枚 | Thin & long things, clothes |
 | 台 | Machines, vehicles |
