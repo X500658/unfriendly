@@ -7,7 +7,7 @@ tags: [Politeness]
 ---
 
 ## Casual-Polite Terms Table
-Note that I use casual and plain forms here interchangibly.　Use at your own risk
+Note that I use casual and polite to refer in terms of the level of politeness. Use at your own risk
 
 | Casual | Polite | Extra Polite |
 | -- | -- | -- |
@@ -28,3 +28,6 @@ Note that I use casual and plain forms here interchangibly.　Use at your own ri
 | そっち | そちら | |
 | あっち | あちら | |
 | | ください | いただけませんか |
+| やる | あげる | さしあげる |
+| | もらう | くださる |
+| | くれる | いただく |
