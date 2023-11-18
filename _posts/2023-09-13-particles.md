@@ -13,10 +13,12 @@ tags: [Grammar]
 | は | - | topic marker |
 | | L27 | contrast (2 clauses joined with が) |
 | | L42 | minimum, "at least" |
-| が | | subject marker |
+| が | - | subject marker |
+| | - | emphasis, distinguish | 
 | | L7 | "but" | 
 | | L14 | When something can be felt through the 5 senses (adj.) |
 | | | For natural phenomenon (verbs) | 
+| | L27 | pair of verbs in potential form |
 | | L29 | pair of intransitive verbs |
 | も | L1 | "too", "as well" |
 | | L5 | deny everything |
