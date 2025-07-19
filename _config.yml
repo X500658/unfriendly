@@ -25,7 +25,7 @@ description: >- # used by seo meta and the atom feed
   The Japanese guide with no clutter, no help and maybe even no learning
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://x500658.github.io"
+url: "https://unfriendly.clydepilapil.com"
 
 github:
   username: x500658 # change to your github username
@@ -36,11 +36,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: X500658
+  name: Clyde Pilapil
   email: admin@x500658.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/x500658 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -65,7 +65,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: dark # [light|dark] 
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
